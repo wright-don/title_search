@@ -1,7 +1,5 @@
 # Linkedin Search Query Tool
 
-# In order to use the title search tool, complete the following -
-
 ## Create Driver Folder and add chromedriver 
 
 ## Rename sample.env to .env and replace XYZ and ABC with linkedin credentials
