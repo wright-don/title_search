@@ -2,3 +2,4 @@ driver
 venv
 .env
 companies.txt
+config.ini

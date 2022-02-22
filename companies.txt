@@ -41,7 +41,6 @@ Klaviyo
 NetsuiteCommerce 
 Optimizely Insight 
 Sage (division) 
-
 Salsify - off limits 
 Sana commerce
 Shopify
