@@ -1,2 +1,9 @@
 driver
+<<<<<<< HEAD
 venv
+=======
+venv
+.env
+companies.txt
+config.ini
+>>>>>>> 24e4748e90dccd10ca9b0aad1539502161366c91
