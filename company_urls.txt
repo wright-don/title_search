@@ -1,4 +1,1 @@
-http://www.linkedin.com/company/kitman-labs
-https://www.linkedin.com/company/the-urban-sports-club
-https://www.linkedin.com/company/freeletics
-
+Add Linkedin URLs Here
